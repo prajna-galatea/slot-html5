@@ -1,0 +1,19 @@
+{
+  "name": "slot-html5",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "description": "瀏覽器五軸老虎機",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "phaser": "3.90.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3",
+    "vite": "^6.3.5"
+  }
+}
